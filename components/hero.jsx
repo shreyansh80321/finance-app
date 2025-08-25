@@ -42,11 +42,6 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://finance-app-gamma-ashen.vercel.app/">
-            <Button size="lg" variant="outline" className="px-8">
-              Github
-            </Button>
-          </Link>
         </div>
         <div className="hero-image-wrapper mt-5 md:mt-0">
           <div ref={imageRef} className="hero-image">
